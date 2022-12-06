@@ -6,6 +6,7 @@ A list of errands and other tasks –  Tasks are persistent because the applicat
 
 [![version](https://img.shields.io/badge/version-1.0.0-green "version")](https://github.com/MiltonMG/todolist_console_app)
 
+[![captura](https://github.com/MiltonMG/todolist_console_app/blob/main/src/Captura.PNG?raw=true "captura")](https://github.com/MiltonMG/todolist_console_app/blob/main/src/Captura.PNG?raw=true "captura")
 ## 💥 Usage
 
 1. First you need to do  `npm install` to install all the dependencies.
